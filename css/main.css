@@ -9,6 +9,10 @@ html {
   color: #fff;
 }
 
+a:focus {
+  outline: 3px solid #fff;
+}
+
 .logo {
   text-align: center;
 }
@@ -39,6 +43,10 @@ html {
 .banner {
   min-height: 16em;
   color: #fff;
+}
+
+.alt-background {
+  background-color: #522806;
 }
 
 .card {
